@@ -26,7 +26,7 @@ This repository documents my daily efforts to prepare for job placements. The ch
 
 ## Connect with Me
 
-Stay tuned for daily updates! Connect with me on [LinkedIn](your-linkedin-profile) to join the journey.
+Stay tuned for daily updates! Connect with me on [LinkedIn](https://www.linkedin.com/in/codewithrishav/) to join the journey.
 
 ## Let's Learn and Grow Together! 💻✨
 
